@@ -4,6 +4,7 @@ Aprendizado sobre Java Script - Curso Alura
 ## Funcionalidade
 - Jogo Single Player - Uma pessoa.
 - Controles:
+
 | Controle | Jogador  1 |
 | ------------- | ------------- |
 | Para cima  | " ↑ " |
